@@ -1,5 +1,5 @@
 # OpenWeatherApiScript
-# Author: Nikolaj Vorobib
+# Author: Nikolaj Vorobiev
 # Date: 20.02
 
 import socket, ast, sys
